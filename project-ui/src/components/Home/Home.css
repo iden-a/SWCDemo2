@@ -1,0 +1,45 @@
+.home-container {
+  padding-top: 20%;
+  text-align: center;
+  color: white;
+}
+
+.text {
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+.home-title {
+  font-size: 2.7em;
+  font-weight: bold;
+}
+
+.start-btn {
+  margin-top: 2%;
+}
+
+.background {
+  height: 100vh;
+}
+
+.start-btn {
+  background-color: white;
+  border-radius: 8px;
+  border-width: 0;
+  color: #333333;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 10px 12px;
+  text-align: center;
+  transition: all 200ms;
+  vertical-align: baseline;
+  white-space: nowrap;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
